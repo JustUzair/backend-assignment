@@ -82,6 +82,13 @@ One of the most important things in an API is how it returns response codes. Eac
 
 [Refer to the API documentation here](https://documenter.getpostman.com/view/20867739/2s9Y5SXRiA)
 
+## Insert test data about events
+
+- while in the project folder execute the command below
+```bash
+   node .\utility-scripts\post-event-data\post-events.js
+```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your config.env file
