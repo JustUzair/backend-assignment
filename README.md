@@ -1,4 +1,4 @@
-# [Studiovity Backend Internship Assignment](https://studiovity.notion.site/Backend-Engineer-Assignment-52ce701ca7e240eb841e1f2a84abbf8d)
+# jorge-ferreiro-backend-assignment
 
 ## Authors
 
