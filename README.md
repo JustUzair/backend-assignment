@@ -1,4 +1,4 @@
-# jorge-ferreiro-backend-assignment
+# backend-assignment
 
 ## Authors
 
@@ -35,8 +35,8 @@ The API is developed using node version 20
 To install and run this this project
 
 ```bash
-    git clone https://github.com/JustUzair/jorge-ferreiro-backend-assignment.git
-    cd jorge-ferreiro-backend-assignment
+    git clone https://github.com/JustUzair/backend-assignment.git
+    cd backend-assignment
     npm install
     npm start
 ```
